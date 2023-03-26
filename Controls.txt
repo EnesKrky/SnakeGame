@@ -1,0 +1,5 @@
+w-a-s-d
+r--Restart
+p--Pause
+q--Quit
+m--Gameover Menu
